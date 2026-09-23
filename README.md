@@ -24,4 +24,4 @@ The underlying data are publicly available from NCHS. No restricted-use or ident
 The analysis code is released under the MIT License.
 
 ## Citation
-Repository: https://github.com/jason-sun01/nhanes-vcf-grip-mortality. The article DOI and archived release DOI will be added when available.
+Please cite the archived release: Sun S, Zhu L, Xiong H, Cui H, Yang X (2026). Code for vertebral fracture, low grip strength, and all-cause mortality in US adults, version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.22919850. The associated article DOI will be added when available.
