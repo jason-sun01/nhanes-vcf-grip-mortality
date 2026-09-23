@@ -24,4 +24,4 @@ The underlying data are publicly available from NCHS. No restricted-use or ident
 The analysis code is released under the MIT License.
 
 ## Citation
-The article DOI and archived repository DOI will be added when available.
+Repository: https://github.com/jason-sun01/nhanes-vcf-grip-mortality. The article DOI and archived release DOI will be added when available.
