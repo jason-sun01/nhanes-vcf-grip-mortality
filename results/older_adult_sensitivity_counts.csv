@@ -1,0 +1,5 @@
+"subgroup","N","deaths","vcf_N","vcf_deaths","low_grip_N","low_grip_deaths","joint_N","joint_deaths"
+"Age >=40 years",2623,220,97,25,63,26,7,5
+"Age >=50 years",1901,203,91,25,62,26,7,5
+"Age >=60 years",1230,176,76,23,58,26,7,5
+"Age >=65 years",858,154,63,21,53,25,7,5
