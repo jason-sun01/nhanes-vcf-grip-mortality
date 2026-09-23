@@ -1,0 +1,13 @@
+Analysis,Exposure,N,Deaths,HR,Lower,Upper,P,HR (95% CI),P value
+Primary complete-case model,Grade >=2 VCF,2623,220,1.614227,1.052832,2.474971,0.028084,1.61 (1.05-2.47),0.028
+Primary complete-case model,FNIH low grip strength,2623,220,1.73983,1.201642,2.519061,0.003359,1.74 (1.20-2.52),0.003
+20-imputation pooled model,Grade >=2 VCF,3000,249,1.787054,1.097782,2.909107,0.01953,1.79 (1.10-2.91),0.020
+20-imputation pooled model,FNIH low grip strength,3000,249,1.938813,1.420359,2.646511,3.04e-5,1.94 (1.42-2.65),<0.001
+Two-year landmark,Grade >=2 VCF,2570,167,1.523726,0.991033,2.342749,0.05499,1.52 (0.99-2.34),0.055
+Two-year landmark,FNIH low grip strength,2570,167,1.689424,1.297288,2.200093,9.96e-5,1.69 (1.30-2.20),<0.001
+Any-grade VCF definition,Any-grade VCF,2623,220,1.21319,0.820507,1.793804,0.333,1.21 (0.82-1.79),0.333
+Any-grade VCF definition,FNIH low grip strength,2623,220,1.72726,1.18578,2.516,0.0044,1.73 (1.19-2.52),0.004
+Continuous grip model,Grade >=2 VCF,2623,220,1.560636,1.021974,2.383216,0.0393,1.56 (1.02-2.38),0.039
+Continuous grip model,Per 5-kg lower grip,2623,220,1.342462,1.17536,1.53332,1.41e-5,1.34 (1.18-1.53),<0.001
+Influence deletion (10 observations),Grade >=2 VCF,2613,NA,1.3476,0.789,2.302,0.275,1.35 (0.79-2.30),0.275
+Influence deletion (10 observations),FNIH low grip strength,2613,NA,1.6594,0.961,2.866,0.069,1.66 (0.96-2.87),0.069
