@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite the associated article and archived release."
+title: "Code for vertebral fracture, low grip strength, and all-cause mortality in US adults"
+type: software
+authors:
+  - family-names: Sun
+    given-names: Shengjie
+    orcid: "https://orcid.org/0009-0009-4469-0625"
+  - family-names: Zhu
+    given-names: Ling
+  - family-names: Xiong
+    given-names: Hongbo
+  - family-names: Cui
+    given-names: Hanbing
+  - family-names: Yang
+    given-names: Xuming
+version: 1.0.0
+date-released: 2026-09-23
+license: MIT
