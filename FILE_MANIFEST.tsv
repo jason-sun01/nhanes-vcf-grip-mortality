@@ -1,0 +1,17 @@
+filename	role
+R/00_build_feasibility_dataset.R	analysis script
+R/01_build_full_covariate_dataset.R	analysis script
+R/02_primary_and_validation_models.R	analysis script
+R/03_older_adult_sensitivity.R	analysis script
+R/04_e_value_sensitivity.R	analysis script
+results/E_values_primary_analysis.csv	manuscript result table
+results/four_corrections_analysis_metadata.csv	manuscript result table
+results/four_corrections_common_sample_models.csv	manuscript result table
+results/four_corrections_flexible_covariates.csv	manuscript result table
+results/four_corrections_svycox_validation.csv	manuscript result table
+results/older_adult_sensitivity_counts.csv	manuscript result table
+results/older_adult_sensitivity_main_exposures.csv	manuscript result table
+results/Table1_weighted_baseline.csv	manuscript result table
+results/Table2_common_sample_svycoxph.csv	manuscript result table
+results/Table3_four_corrections_additions.csv	manuscript result table
+results/Table3_sensitivity_analyses.csv	manuscript result table
