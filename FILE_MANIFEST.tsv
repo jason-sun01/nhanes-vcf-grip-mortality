@@ -18,4 +18,13 @@ results/Table1_weighted_baseline.csv	manuscript result table
 results/Table2_common_sample_svycoxph.csv	manuscript result table
 results/Table3_four_corrections_additions.csv	manuscript result table
 results/Table3_sensitivity_analyses.csv	manuscript result table
+results/nhanes_diagnostics_sensitivity_all_terms.csv	manuscript result table
+results/nhanes_diagnostics_sensitivity_key_results.csv	manuscript result table
+results/nhanes_MI_20_imputation_estimates.csv	manuscript result table
+results/nhanes_MI_20_pooled_results.csv	manuscript result table
+results/nhanes_PH_assumption_tests.csv	manuscript result table
+results/nhanes_PIR_nonproportional_sensitivity_all_terms.csv	manuscript result table
+results/nhanes_PIR_nonproportional_sensitivity_key_results.csv	manuscript result table
+results/nhanes_sex_vcf_event_counts.csv	manuscript result table
+results/nhanes_top_influence_observations.csv	manuscript result table
 
