@@ -6,10 +6,10 @@ This repository contains R code and tabular outputs supporting the NHANES 2013-2
 Download the public-use NHANES 2013-2014 files DEMO_H, DXXVFA_H, MGX_H, BMX_H, SMQ_H, ALQ_H, PAQ_H, DIQ_H, BPQ_H, and MCQ_H, together with the 2019 Public-use Linked Mortality File. Place all files in data_raw. Original NHANES files are not redistributed here.
 
 ## Software
-R 4.6.1. Required packages: survival, survey, splines, haven, foreign, dplyr, readr, ggplot2.
+R 4.6.1. Required packages: survival, survey, splines, haven, foreign, dplyr, readr, ggplot2, nnet.
 
 ## Reproduction
-Run scripts from the repository root in numeric order. Generated analytic data are written to data_processed and outputs to results.
+Run scripts from the repository root in numeric order. Generated analytic data are written to data_processed and outputs to results. Scripts 05-07 reproduce the 20-imputation analysis, proportional-hazards diagnostics and exploratory interaction/influence analyses, and income-to-poverty-ratio non-proportionality sensitivity analyses reported in the article.
 
 ## Definitions
 Grade >=2 VCF means at least one T4-L4 vertebra with fracture grade 2 or 3. Low grip strength means maximum single-trial grip strength below 26 kg in men or below 16 kg in women.
@@ -25,3 +25,4 @@ The analysis code is released under the MIT License.
 
 ## Citation
 Please cite the archived release: Sun S, Zhu L, Xiong H, Cui H, Yang X (2026). Code for vertebral fracture, low grip strength, and all-cause mortality in US adults, version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.22919850. The associated article DOI will be added when available.
+
