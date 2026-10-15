@@ -1,0 +1,6 @@
+"exposure","modifier","interaction_term","p_interaction"
+"Grade >=2 VCF","Sex","vcf_grade2:female",0.0098119074967294
+"Grade >=2 VCF","Age","vcf_grade2:older65",0.652520873464512
+"FNIH low grip strength","Sex","female:low_grip",0.665020238305909
+"FNIH low grip strength","Age","older65:low_grip",0.615258890434001
+

@@ -7,6 +7,7 @@ R/04_e_value_sensitivity.R	analysis script
 R/05_multiple_imputation_sensitivity.R	analysis script
 R/06_diagnostics_interactions.R	analysis script
 R/07_income_nonproportional_sensitivity.R	analysis script
+R/08_grip_rcs_and_exploratory_subgroups.R	analysis and figure script
 results/E_values_primary_analysis.csv	manuscript result table
 results/four_corrections_analysis_metadata.csv	manuscript result table
 results/four_corrections_common_sample_models.csv	manuscript result table
@@ -27,4 +28,17 @@ results/nhanes_PIR_nonproportional_sensitivity_all_terms.csv	manuscript result t
 results/nhanes_PIR_nonproportional_sensitivity_key_results.csv	manuscript result table
 results/nhanes_sex_vcf_event_counts.csv	manuscript result table
 results/nhanes_top_influence_observations.csv	manuscript result table
+results/grip_rcs_curve_estimates.csv	manuscript result table
+results/grip_rcs_metadata.csv	analysis metadata
+results/grip_rcs_wald_tests.csv	manuscript result table
+results/exploratory_interaction_pvalues.csv	manuscript result table
+results/exploratory_subgroup_estimates.csv	manuscript result table
+results/exploratory_subgroup_event_counts.csv	analysis metadata
+results/analysis_08_session_info.txt	software metadata
+figures/Figure3_grip_strength_rcs.pdf	publication figure
+figures/Figure3_grip_strength_rcs.svg	publication figure
+figures/Figure3_grip_strength_rcs.tiff	publication figure
+figures/FigureS5_exploratory_subgroups.pdf	supplementary figure
+figures/FigureS5_exploratory_subgroups.svg	supplementary figure
+figures/FigureS5_exploratory_subgroups.tiff	supplementary figure
 

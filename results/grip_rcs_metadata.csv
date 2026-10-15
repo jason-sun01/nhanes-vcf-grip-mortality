@@ -1,0 +1,12 @@
+"item","value"
+"N",2623
+"Deaths",220
+"Design degrees of freedom",15
+"Reference grip (kg)",34.6
+"Knot 1 (kg; weighted 5th percentile)",20.9
+"Knot 2 (kg; weighted 35th percentile)",30.7
+"Knot 3 (kg; weighted 65th percentile)",41.6
+"Knot 4 (kg; weighted 95th percentile)",55.7
+"Plot lower limit (kg; weighted 2.5th percentile)",19
+"Plot upper limit (kg; weighted 97.5th percentile)",59.5
+

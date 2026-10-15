@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Please cite the associated article and archived release."
+message: "Please cite the associated article and the new archived release after this candidate is published."
 title: "Code for vertebral fracture, low grip strength, and all-cause mortality in US adults"
 type: software
 authors:
@@ -14,9 +14,8 @@ authors:
     given-names: Hanbing
   - family-names: Yang
     given-names: Xuming
-version: 1.0.1
-date-released: 2026-09-24
+version: 1.1.0
+date-released: 2026-10-15
 license: MIT
 repository-code: "https://github.com/jason-sun01/nhanes-vcf-grip-mortality"
-doi: "10.5281/zenodo.22930336"
 
